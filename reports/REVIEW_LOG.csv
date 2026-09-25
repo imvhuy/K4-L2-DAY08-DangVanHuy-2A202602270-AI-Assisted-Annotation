@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe SUV tối màu làn giữa cận cảnh,added,AI bỏ sót xe to tối màu bật đèn pha nên vẽ thêm khung ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe sedan tối màu làn phải có đèn hậu đỏ,edited,Kéo gọn khung ôm sát thân xe không bao gồm vệt sáng đỏ phản chiếu trên mặt đường
+1,frame_0099.jpg,khung ảo vệt đèn xa ở chân cầu,deleted,Ánh đèn phản chiếu không phải thân xe theo GUIDELINE_LABEL.md nên xóa khung
+1,frame_0099.jpg,xe sedan màu đỏ làn phải,accepted,Khung AI nhận diện đúng vị trí và ôm sát thân xe nên giữ nguyên
